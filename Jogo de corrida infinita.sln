@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo de corrida infinita", "Jogo de corrida infinita.csproj", "{37D2387B-629C-B432-869F-EB5137E24C81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo de corrida infinita.Plugins", "Jogo de corrida infinita.Plugins.csproj", "{BE7CB245-7D5F-317F-601E-B803305424FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo de corrida infinita.Editor.Plugins", "Jogo de corrida infinita.Editor.Plugins.csproj", "{8DB84BDF-C431-F8B6-E7BD-5A6C22CD04B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37D2387B-629C-B432-869F-EB5137E24C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D2387B-629C-B432-869F-EB5137E24C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D2387B-629C-B432-869F-EB5137E24C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D2387B-629C-B432-869F-EB5137E24C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE7CB245-7D5F-317F-601E-B803305424FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE7CB245-7D5F-317F-601E-B803305424FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE7CB245-7D5F-317F-601E-B803305424FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE7CB245-7D5F-317F-601E-B803305424FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DB84BDF-C431-F8B6-E7BD-5A6C22CD04B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB84BDF-C431-F8B6-E7BD-5A6C22CD04B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB84BDF-C431-F8B6-E7BD-5A6C22CD04B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB84BDF-C431-F8B6-E7BD-5A6C22CD04B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

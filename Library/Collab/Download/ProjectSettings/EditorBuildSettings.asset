@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 91598cb6d4d53c340b368af1a1ccc72d
+  - enabled: 1
+    path: Assets/Scenes/menuEN.unity
+    guid: a9668c390c5364e4cb2131e7ec07a64f
+  - enabled: 1
+    path: Assets/Scenes/jogoEN.unity
+    guid: 50fe6540094a8b545be30241618d6644
+  - enabled: 1
+    path: Assets/Scenes/jogo2EN.unity
+    guid: 5bbd523a4b2d172488f48b90b206685a
+  - enabled: 1
+    path: Assets/Scenes/jogo3EN.unity
+    guid: 73dadec768ffe3342851f223f80acab8
+  - enabled: 1
+    path: Assets/Scenes/jogo4EN.unity
+    guid: a79702225a1aa974aa8b891a9b550dda
+  - enabled: 1
+    path: Assets/Scenes/jogo5EN.unity
+    guid: 23ca721744960fb48861c79ea7b4695d
+  - enabled: 1
+    path: Assets/Scenes/jogo6EN.unity
+    guid: 77bfabfd1abe6614f9feb0f6c525bf49
+  - enabled: 1
+    path: Assets/Scenes/jogo7EN.unity
+    guid: ae660a6bfc7222b40a0238a9ff766b2b
+  - enabled: 1
+    path: Assets/Scenes/jogo8EN.unity
+    guid: 6fc9e27d769af5c41b81622c4cdc659a
+  - enabled: 1
+    path: Assets/Scenes/menuPT.unity
+    guid: 4a5da6f5bb3d74e4999ed3a7d0b57d03
+  - enabled: 1
+    path: Assets/Scenes/jogoPT.unity
+    guid: ec07772c3da637944a4c5685417a8c0c
+  - enabled: 1
+    path: Assets/Scenes/jogo8PT.unity
+    guid: dcc81c6382c137c4c970c1758c267ed5
+  - enabled: 1
+    path: Assets/Scenes/jogo7PT.unity
+    guid: 6994f20a8c607bd48b12819d9f9e41c2
+  - enabled: 1
+    path: Assets/Scenes/jogo6PT.unity
+    guid: b4aecf424cf65bb468083914c6bd2bdb
+  - enabled: 1
+    path: Assets/Scenes/jogo5PT.unity
+    guid: b778ce4be5913a9468ae843ff120d0e1
+  - enabled: 1
+    path: Assets/Scenes/jogo4PT.unity
+    guid: 6245f3f144d270047847390c1429c7a4
+  - enabled: 1
+    path: Assets/Scenes/jogo3PT.unity
+    guid: 694d71e4dbd34b94a9f74e253f5ec9f4
+  - enabled: 1
+    path: Assets/Scenes/jogo2PT.unity
+    guid: 504af33ff2018654399534b8d6da614d
+  - enabled: 1
+    path: Assets/Scenes/menuES.unity
+    guid: 554ce5f1884008447b304b6634e90be3
+  - enabled: 1
+    path: Assets/Scenes/jogoES.unity
+    guid: 8967945360ff2604fba9185c0c992d5d
+  - enabled: 1
+    path: Assets/Scenes/jogo8ES.unity
+    guid: 6de7d8adabfe163498ae280ed405d937
+  - enabled: 1
+    path: Assets/Scenes/jogo7ES.unity
+    guid: 2488e1400ec38c34295988b8cad67dee
+  - enabled: 1
+    path: Assets/Scenes/jogo6ES.unity
+    guid: 17f11b9fc43199e448cc886e3fd6bd8a
+  - enabled: 1
+    path: Assets/Scenes/jogo5ES.unity
+    guid: d28aee861ec435d43bad515aff488778
+  - enabled: 1
+    path: Assets/Scenes/jogo4ES.unity
+    guid: 26413029faa34634bbc6ed7022d2fe22
+  - enabled: 1
+    path: Assets/Scenes/jogo3ES.unity
+    guid: 79147ad291398da42b1c73f850dbb6cd
+  - enabled: 1
+    path: Assets/Scenes/jogo2ES.unity
+    guid: 80f212215dbf00b439b963a985d0258a

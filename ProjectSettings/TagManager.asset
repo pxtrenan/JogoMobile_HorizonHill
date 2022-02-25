@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameOver
+  - Player2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - GameOver
+  - Coin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "C\xE9u"
+    uniqueID: 2950293469
+    locked: 0
+  - name: Background1
+    uniqueID: 2670092391
+    locked: 0
+  - name: Background2
+    uniqueID: 2163936635
+    locked: 0
+  - name: Ponte
+    uniqueID: 1490814635
+    locked: 0
+  - name: Plataforma escura 2
+    uniqueID: 3135081011
+    locked: 0
+  - name: Plataforma escura
+    uniqueID: 3714834283
+    locked: 0
+  - name: Background3
+    uniqueID: 2109754141
+    locked: 0
+  - name: Plataforma clara
+    uniqueID: 2407066701
+    locked: 0
+  - name: Moeda
+    uniqueID: 780346327
+    locked: 0
+  - name: Personagem
+    uniqueID: 3747407303
+    locked: 0
+  - name: UI
+    uniqueID: 2908939941
+    locked: 0
